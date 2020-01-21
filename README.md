@@ -1,15 +1,16 @@
 # Sense Embeddings for Syntactic and Semantic Analogy for Portuguese
 Implementation of Sense Embeddings for Syntactic and Semantic Analogy for Portuguese
 
-This repository consists of preprocessing and evaluation scripts used in the paper entitled Sense Embeddings for Syntactic and Semantic Analogy for Portuguese.
-The preprocessing script cleaned corpora, tokenized and sentenced it.
-Evaluation scripts can be used to measure the representativeness of a sense embedding model.
-
 ---
 
 ## About the paper
 
-Paper can be read:
+This repository contains the results obtained in a paper to be presented in <a href="http://comissoes.sbc.org.br/ce-pln/stil2019/">STIL 2019</a>.
+
+```
+Rodrigues, J. S. and Caseli, H. M. (2019). Generating Sense Embeddings for Syntactic and Semantic Analogy for Portuguese.
+STIL - Symposium in Information and Human Language Technology. Salvador, Bahia.
+```
 
 <a href="https://drive.google.com/open?id=1_VL-UTNxg-dBPFUVgMqvifCQb_JDbTUk">Trained embeddings models</a>
 
